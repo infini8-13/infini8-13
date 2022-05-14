@@ -1,7 +1,7 @@
 ## Hey there✨ Saaswath here!
 ### Computer Architecture and Digital Design Enthusiast
 
-- 🔭 Currently working on Hardware Acceleration of Cryptographic Applications 
+- 🔭 Currently working on Hardware Acceleration of SHA 
 - 🌱 Learning memory design and cache systems
 - 👯 I’m looking to collaborate on open source hardware and anything comparch related
 
