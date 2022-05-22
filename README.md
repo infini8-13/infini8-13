@@ -1,9 +1,10 @@
 ## Hey there✨ Saaswath here!
 ### Computer Architecture and Digital Design Enthusiast
 
-- 🔭 Currently working on Hardware Acceleration of SHA 
-- 🌱 Learning memory design and cache systems
-- 👯 I’m looking to collaborate on open source hardware and anything comparch related
+- 🔭 Currently working on RISC-V cores, Hardware Accelerators.
+- 🌱 Learning memory design & cache systems, power electronics.
+- 👯 Looking to collaborate on open source hardware and anything comparch related!
+- Reach me thru [e-mail](mailto:ln.saaswath.eee19@itbhu.ac.in) or [LinkedIn](https://www.linkedin.com/in/lnsaaswath/)
 
 
 <!--
