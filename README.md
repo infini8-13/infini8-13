@@ -4,7 +4,7 @@
 - 🔭 Currently working on RISC-V cores, Hardware Accelerators.
 - 🌱 Learning memory design & cache systems, power electronics.
 - 👯 Looking to collaborate on open source hardware and anything comparch related!
-- Reach me thru [e-mail](mailto:ln.saaswath.eee19@itbhu.ac.in) or [LinkedIn](https://www.linkedin.com/in/lnsaaswath/)
+- 📫 Reach me thru [e-mail](mailto:saas13101@gmail.com) or [LinkedIn](https://www.linkedin.com/in/lnsaaswath/)
 
 
 <!--
@@ -15,5 +15,5 @@
 - 👯 I’m looking to collaborate on open source hardware and anything comparch related
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about 
-- 📫 Reach me at ln[dot]saaswath[dot]eee19[at]
+- 📫 Reach me at 
 -->
