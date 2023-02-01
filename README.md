@@ -12,9 +12,9 @@
 
 ### Computer Architecture and Digital Design Enthusiast
 
-- 🔭 Currently working on RISC-V cores, Hardware Accelerators.
-- 🌱 Learning memory design & cache systems, power electronics.
-- 👯 Looking to collaborate on open source hardware and anything comparch related!
+- 🔭 Currently working on RISC-V cores.
+- 🌱 Learning virtual memory and hw/sw co-design.
+- 👯 Looking to collaborate on open source hardware and anything comparch related! Actively looking for research opportunities in Computer Architecture
 - 📫 Reach me thru [e-mail](mailto:saas13101@gmail.com) or [LinkedIn](https://www.linkedin.com/in/lnsaaswath/)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=infini8-13&theme=radical)](https://git.io/streak-stats)  
