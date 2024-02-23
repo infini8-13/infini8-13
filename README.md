@@ -1,5 +1,5 @@
 ## Hey there! Saaswath here✨
-#### Junior Undergrad, Electrical Engineering
+#### Senior, Electrical Engineering
 #### IIT(BHU) Varanasi '24  
 
 [![Linkedin Badge](https://img.shields.io/badge/-lnsaaswath-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lnsaaswath/)
