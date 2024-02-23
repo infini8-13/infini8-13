@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-lnsaaswath-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lnsaaswath/)
 [![Twitter Badge](https://img.shields.io/badge/-infini8__139-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/infini8_139)
-[![Instagram Badge](https://img.shields.io/badge/-____infini8____-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/__infini8__)
+[![Instagram Badge](https://img.shields.io/badge/-saaswath.ln-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/saaswath.ln)
 [![Gmail Badge](https://img.shields.io/badge/-saas13101@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:saas13101@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-infinite-darkred?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCww6t8K24fyw58qHFkQxBcg)
 [![Strava Badge](https://img.shields.io/badge/-%F0%9F%87%AE%F0%9F%87%B3L%20N%20Saaswath-FC4C02?style=flat-square&logo=strava&logoColor=white)](https://www.strava.com/athletes/saaswath)
